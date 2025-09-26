@@ -2,9 +2,6 @@
 Our demo code mimicking the inya developed agent
 
 
-That's a well-structured Flask application for an Agentic AI powered by a Large Language Model (LLM)\!
-
-Here is a comprehensive README file for your GitHub repository.
 
 ````markdown
 # Agentic LLM-Only Service (Insurance Renewal & Upsell Agent)
