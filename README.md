@@ -104,6 +104,9 @@ The agent endpoint orchestrates the following sequence to generate a response:
 
 This design demonstrates a powerful pattern where the LLM performs all analytical and decision-making steps, acting as the brain for the entire agent architecture.
 
+![Flowchart](https://github.com/user-attachments/assets/69c036a2-376a-44ce-8186-a0881d7d80f1)
+
+
 ## 📝 Data Schema
 
 The SQLite database (`agentic_ai.db`) uses two main tables:
